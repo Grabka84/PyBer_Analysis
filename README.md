@@ -11,6 +11,7 @@ Using your Python skills and knowledge of Pandas, you’ll create a summary Data
 <p> Suburban cities are in the middle of all metrics, with $19,356.33 total fares, 490 total drivers, and 625 total rides, with $30.97 average fare per ride and $39.50 average fare per driver. 
 
 ## Deliverable 2: A multiple-line chart of total fares for each city type
+<p>The chart below shows the total fare $ by city type.
 <img src="Analysis/PyBer_fare_summary.png">
 
 ## Deliverable 3: A written report
