@@ -15,4 +15,7 @@ Using your Python skills and knowledge of Pandas, you’ll create a summary Data
 <img src="Analysis/PyBer_fare_summary.png">
 
 ## Deliverable 3: A written report
-
+<p> Recommendations:
+<p> 1) Have less drivers in urban cities. There are more drivers than there were total rides in urban cities. Increased competition among existing drivers for the limited number of rides may be reducing the average fare earned per ride.
+<p> 2) Advertise more heavily in rural areas to increase total number of fares. These are the highest earning and need to be pursued more aggressively.
+<p> 3) 
